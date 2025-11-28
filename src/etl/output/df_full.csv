@@ -1,0 +1,101 @@
+id,cliente_id,produto_id,data_venda,quantidade,valor_total,id_produto,nome_x,categoria,preco_unitario,id_cliente,nome_y,cidade,segmento
+1,7,3,2025-02-13,5,75.0,3,Produto C,Categoria 1,15.0,7,Cliente 7,Porto Alegre,Online
+2,10,4,2025-03-13,3,150.0,4,Produto D,Categoria 3,50.0,10,Cliente 10,São Paulo,Online
+3,7,5,2025-06-08,3,90.0,5,Produto E,Categoria 2,30.0,7,Cliente 7,Porto Alegre,Online
+4,5,4,2025-04-18,2,100.0,4,Produto D,Categoria 3,50.0,5,Cliente 5,Rio de Janeiro,Varejo
+5,20,3,2025-04-03,1,15.0,3,Produto C,Categoria 1,15.0,20,Cliente 20,Porto Alegre,Online
+6,15,5,2025-05-15,4,120.0,5,Produto E,Categoria 2,30.0,15,Cliente 15,Rio de Janeiro,Atacado
+7,12,5,2025-02-18,4,120.0,5,Produto E,Categoria 2,30.0,12,Cliente 12,Porto Alegre,Atacado
+8,2,2,2025-05-10,2,40.0,2,Produto B,Categoria 2,20.0,2,Cliente 2,Rio de Janeiro,Varejo
+9,15,2,2025-04-22,4,80.0,2,Produto B,Categoria 2,20.0,15,Cliente 15,Rio de Janeiro,Atacado
+10,2,4,2025-03-06,3,150.0,4,Produto D,Categoria 3,50.0,2,Cliente 2,Rio de Janeiro,Varejo
+11,10,4,2025-06-06,5,250.0,4,Produto D,Categoria 3,50.0,10,Cliente 10,São Paulo,Online
+12,20,2,2025-04-25,3,60.0,2,Produto B,Categoria 2,20.0,20,Cliente 20,Porto Alegre,Online
+13,18,3,2025-02-06,3,45.0,3,Produto C,Categoria 1,15.0,18,Cliente 18,Porto Alegre,Varejo
+14,3,4,2025-01-15,4,200.0,4,Produto D,Categoria 3,50.0,3,Cliente 3,Porto Alegre,Online
+15,2,3,2025-01-22,5,75.0,3,Produto C,Categoria 1,15.0,2,Cliente 2,Rio de Janeiro,Varejo
+16,12,2,2025-04-14,2,40.0,2,Produto B,Categoria 2,20.0,12,Cliente 12,Porto Alegre,Atacado
+17,8,1,2025-02-26,3,30.0,1,Produto A,Categoria 1,10.0,8,Cliente 8,São Paulo,Online
+18,9,2,2025-01-16,5,100.0,2,Produto B,Categoria 2,20.0,9,Cliente 9,Rio de Janeiro,Atacado
+19,18,2,2025-01-19,3,60.0,2,Produto B,Categoria 2,20.0,18,Cliente 18,Porto Alegre,Varejo
+20,17,2,2025-05-04,4,80.0,2,Produto B,Categoria 2,20.0,17,Cliente 17,Rio de Janeiro,Online
+21,10,2,2025-03-31,3,60.0,2,Produto B,Categoria 2,20.0,10,Cliente 10,São Paulo,Online
+22,5,5,2025-03-14,3,90.0,5,Produto E,Categoria 2,30.0,5,Cliente 5,Rio de Janeiro,Varejo
+23,16,1,2025-01-06,3,30.0,1,Produto A,Categoria 1,10.0,16,Cliente 16,Rio de Janeiro,Online
+24,12,5,2025-05-27,4,120.0,5,Produto E,Categoria 2,30.0,12,Cliente 12,Porto Alegre,Atacado
+25,15,5,2025-03-21,1,30.0,5,Produto E,Categoria 2,30.0,15,Cliente 15,Rio de Janeiro,Atacado
+26,15,2,2025-04-20,4,80.0,2,Produto B,Categoria 2,20.0,15,Cliente 15,Rio de Janeiro,Atacado
+27,4,1,2025-05-29,3,30.0,1,Produto A,Categoria 1,10.0,4,Cliente 4,Rio de Janeiro,Varejo
+28,12,2,2025-01-21,5,100.0,2,Produto B,Categoria 2,20.0,12,Cliente 12,Porto Alegre,Atacado
+29,7,5,2025-01-23,1,30.0,5,Produto E,Categoria 2,30.0,7,Cliente 7,Porto Alegre,Online
+30,15,2,2025-01-30,4,80.0,2,Produto B,Categoria 2,20.0,15,Cliente 15,Rio de Janeiro,Atacado
+31,6,2,2025-02-24,4,80.0,2,Produto B,Categoria 2,20.0,6,Cliente 6,Curitiba,Varejo
+32,3,5,2025-04-29,2,60.0,5,Produto E,Categoria 2,30.0,3,Cliente 3,Porto Alegre,Online
+33,13,2,2025-02-19,5,100.0,2,Produto B,Categoria 2,20.0,13,Cliente 13,Porto Alegre,Atacado
+34,2,4,2025-02-28,1,50.0,4,Produto D,Categoria 3,50.0,2,Cliente 2,Rio de Janeiro,Varejo
+35,6,4,2025-03-01,4,200.0,4,Produto D,Categoria 3,50.0,6,Cliente 6,Curitiba,Varejo
+36,5,3,2025-03-05,1,15.0,3,Produto C,Categoria 1,15.0,5,Cliente 5,Rio de Janeiro,Varejo
+37,6,1,2025-05-03,2,20.0,1,Produto A,Categoria 1,10.0,6,Cliente 6,Curitiba,Varejo
+38,6,4,2025-01-24,1,50.0,4,Produto D,Categoria 3,50.0,6,Cliente 6,Curitiba,Varejo
+39,15,5,2025-05-02,1,30.0,5,Produto E,Categoria 2,30.0,15,Cliente 15,Rio de Janeiro,Atacado
+40,17,3,2025-04-10,3,45.0,3,Produto C,Categoria 1,15.0,17,Cliente 17,Rio de Janeiro,Online
+41,10,5,2025-03-02,1,30.0,5,Produto E,Categoria 2,30.0,10,Cliente 10,São Paulo,Online
+42,4,1,2025-05-26,2,20.0,1,Produto A,Categoria 1,10.0,4,Cliente 4,Rio de Janeiro,Varejo
+43,3,5,2025-06-29,2,60.0,5,Produto E,Categoria 2,30.0,3,Cliente 3,Porto Alegre,Online
+44,1,4,2025-03-11,3,150.0,4,Produto D,Categoria 3,50.0,1,Cliente 1,Curitiba,Online
+45,18,5,2025-01-07,1,30.0,5,Produto E,Categoria 2,30.0,18,Cliente 18,Porto Alegre,Varejo
+46,1,4,2025-02-10,1,50.0,4,Produto D,Categoria 3,50.0,1,Cliente 1,Curitiba,Online
+47,11,1,2025-04-24,1,10.0,1,Produto A,Categoria 1,10.0,11,Cliente 11,São Paulo,Atacado
+48,5,1,2025-01-08,3,30.0,1,Produto A,Categoria 1,10.0,5,Cliente 5,Rio de Janeiro,Varejo
+49,9,1,2025-05-16,4,40.0,1,Produto A,Categoria 1,10.0,9,Cliente 9,Rio de Janeiro,Atacado
+50,1,5,2025-06-15,1,30.0,5,Produto E,Categoria 2,30.0,1,Cliente 1,Curitiba,Online
+51,19,2,2025-01-22,5,100.0,2,Produto B,Categoria 2,20.0,19,Cliente 19,Curitiba,Varejo
+52,19,5,2025-06-12,3,90.0,5,Produto E,Categoria 2,30.0,19,Cliente 19,Curitiba,Varejo
+53,14,3,2025-06-07,1,15.0,3,Produto C,Categoria 1,15.0,14,Cliente 14,São Paulo,Varejo
+54,9,3,2025-01-04,4,60.0,3,Produto C,Categoria 1,15.0,9,Cliente 9,Rio de Janeiro,Atacado
+55,16,1,2025-01-18,1,10.0,1,Produto A,Categoria 1,10.0,16,Cliente 16,Rio de Janeiro,Online
+56,2,1,2025-03-18,2,20.0,1,Produto A,Categoria 1,10.0,2,Cliente 2,Rio de Janeiro,Varejo
+57,11,5,2025-01-14,4,120.0,5,Produto E,Categoria 2,30.0,11,Cliente 11,São Paulo,Atacado
+58,18,3,2025-02-22,4,60.0,3,Produto C,Categoria 1,15.0,18,Cliente 18,Porto Alegre,Varejo
+59,19,4,2025-02-18,2,100.0,4,Produto D,Categoria 3,50.0,19,Cliente 19,Curitiba,Varejo
+60,3,4,2025-06-19,3,150.0,4,Produto D,Categoria 3,50.0,3,Cliente 3,Porto Alegre,Online
+61,10,5,2025-02-18,2,60.0,5,Produto E,Categoria 2,30.0,10,Cliente 10,São Paulo,Online
+62,7,1,2025-01-02,3,30.0,1,Produto A,Categoria 1,10.0,7,Cliente 7,Porto Alegre,Online
+63,10,5,2025-02-06,5,150.0,5,Produto E,Categoria 2,30.0,10,Cliente 10,São Paulo,Online
+64,3,5,2025-04-05,1,30.0,5,Produto E,Categoria 2,30.0,3,Cliente 3,Porto Alegre,Online
+65,20,4,2025-06-13,3,150.0,4,Produto D,Categoria 3,50.0,20,Cliente 20,Porto Alegre,Online
+66,13,3,2025-01-17,4,60.0,3,Produto C,Categoria 1,15.0,13,Cliente 13,Porto Alegre,Atacado
+67,7,4,2025-03-15,5,250.0,4,Produto D,Categoria 3,50.0,7,Cliente 7,Porto Alegre,Online
+68,17,2,2025-04-30,1,20.0,2,Produto B,Categoria 2,20.0,17,Cliente 17,Rio de Janeiro,Online
+69,18,3,2025-05-06,4,60.0,3,Produto C,Categoria 1,15.0,18,Cliente 18,Porto Alegre,Varejo
+70,17,3,2025-02-05,3,45.0,3,Produto C,Categoria 1,15.0,17,Cliente 17,Rio de Janeiro,Online
+71,5,1,2025-02-08,2,20.0,1,Produto A,Categoria 1,10.0,5,Cliente 5,Rio de Janeiro,Varejo
+72,3,5,2025-05-27,5,150.0,5,Produto E,Categoria 2,30.0,3,Cliente 3,Porto Alegre,Online
+73,15,5,2025-06-02,2,60.0,5,Produto E,Categoria 2,30.0,15,Cliente 15,Rio de Janeiro,Atacado
+74,9,1,2025-02-17,5,50.0,1,Produto A,Categoria 1,10.0,9,Cliente 9,Rio de Janeiro,Atacado
+75,10,3,2025-01-13,3,45.0,3,Produto C,Categoria 1,15.0,10,Cliente 10,São Paulo,Online
+76,7,3,2025-03-17,4,60.0,3,Produto C,Categoria 1,15.0,7,Cliente 7,Porto Alegre,Online
+77,8,4,2025-01-14,5,250.0,4,Produto D,Categoria 3,50.0,8,Cliente 8,São Paulo,Online
+78,14,5,2025-01-21,1,30.0,5,Produto E,Categoria 2,30.0,14,Cliente 14,São Paulo,Varejo
+79,14,4,2025-02-20,4,200.0,4,Produto D,Categoria 3,50.0,14,Cliente 14,São Paulo,Varejo
+80,16,5,2025-06-30,2,60.0,5,Produto E,Categoria 2,30.0,16,Cliente 16,Rio de Janeiro,Online
+81,2,5,2025-01-22,1,30.0,5,Produto E,Categoria 2,30.0,2,Cliente 2,Rio de Janeiro,Varejo
+82,4,5,2025-05-17,4,120.0,5,Produto E,Categoria 2,30.0,4,Cliente 4,Rio de Janeiro,Varejo
+83,12,1,2025-06-02,2,20.0,1,Produto A,Categoria 1,10.0,12,Cliente 12,Porto Alegre,Atacado
+84,19,2,2025-03-08,4,80.0,2,Produto B,Categoria 2,20.0,19,Cliente 19,Curitiba,Varejo
+85,6,1,2025-04-29,2,20.0,1,Produto A,Categoria 1,10.0,6,Cliente 6,Curitiba,Varejo
+86,16,2,2025-06-26,2,40.0,2,Produto B,Categoria 2,20.0,16,Cliente 16,Rio de Janeiro,Online
+87,3,2,2025-01-07,4,80.0,2,Produto B,Categoria 2,20.0,3,Cliente 3,Porto Alegre,Online
+88,12,5,2025-04-22,1,30.0,5,Produto E,Categoria 2,30.0,12,Cliente 12,Porto Alegre,Atacado
+89,7,3,2025-06-17,3,45.0,3,Produto C,Categoria 1,15.0,7,Cliente 7,Porto Alegre,Online
+90,17,4,2025-06-13,4,200.0,4,Produto D,Categoria 3,50.0,17,Cliente 17,Rio de Janeiro,Online
+91,17,4,2025-03-15,3,150.0,4,Produto D,Categoria 3,50.0,17,Cliente 17,Rio de Janeiro,Online
+92,1,4,2025-05-08,4,200.0,4,Produto D,Categoria 3,50.0,1,Cliente 1,Curitiba,Online
+93,1,5,2025-03-19,4,120.0,5,Produto E,Categoria 2,30.0,1,Cliente 1,Curitiba,Online
+94,1,4,2025-03-30,1,50.0,4,Produto D,Categoria 3,50.0,1,Cliente 1,Curitiba,Online
+95,2,3,2025-04-08,5,75.0,3,Produto C,Categoria 1,15.0,2,Cliente 2,Rio de Janeiro,Varejo
+96,20,4,2025-05-05,1,50.0,4,Produto D,Categoria 3,50.0,20,Cliente 20,Porto Alegre,Online
+97,19,3,2025-06-10,4,60.0,3,Produto C,Categoria 1,15.0,19,Cliente 19,Curitiba,Varejo
+98,10,5,2025-03-30,3,90.0,5,Produto E,Categoria 2,30.0,10,Cliente 10,São Paulo,Online
+99,20,1,2025-03-02,5,50.0,1,Produto A,Categoria 1,10.0,20,Cliente 20,Porto Alegre,Online
+100,4,1,2025-05-05,5,50.0,1,Produto A,Categoria 1,10.0,4,Cliente 4,Rio de Janeiro,Varejo
