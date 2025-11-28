@@ -37,12 +37,12 @@ load(metrics)
 print("ETL finalizado com sucesso!\n")
 
 # -------------------------
-# 4. Forecast
+# 4. Forecast (opcional)
 # -------------------------
 try:
     from forecast import run_forecast
-    print("Iniciando forecast...")
-    run_forecast(metrics['receita_diaria'])
-    print("Forecast concluído.\n")
+    print("Iniciando forecast (não salvar CSV final)...")
+    df_forecast = run_forecast(metrics['receita_diaria'], dias_previsao=30)
+    print("Forecast gerado (em memória).\n")
 except ImportError:
-    print("forecast.py não encontrado, pulando previsão.")
+    print("forecast.py não encontrado, pulando previsão.\n")
